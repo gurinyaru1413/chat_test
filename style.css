@@ -1,23 +1,33 @@
 .chaat11{
+  resize: none;
     position: fixed;
-  top: 460px;
+    left:120px;
+  top: 55px;
+  height:50px;
+  width:px;
 }
 
 .sousin{
     position: fixed;
-  top: 460px;
-  left: 758px;
-  height: 45px;
+  top: 55px;
+  left: 871px;
+  height: 55px;
   width: 150px;
 }
 
 .naiyou{
     position: fixed;
-    top: 419px;    
+    top: 0px;
+    left: 120px; 
     border-radius: 5px;
 }
 
 .chaaaat{
     font-size:30px;
     line-height:0px;
+}
+.namearea{
+  height:50px;
+  width:100px;
+  resize: none;
 }
