@@ -13,7 +13,7 @@ CHAT.fire = {
     this.$button = $('#jsi-button');
 
     //データベースと接続する。各自登録時に出たコードに書き換え。
-    this.chatDataStore = new Firebase('https://chat-10251-default-rtdb.firebaseio.com/');
+    this.chatDataStore = new Firebase('https://chat-62965-default-rtdb.firebaseio.com/');
   },
 
   bindEvent:function(){
